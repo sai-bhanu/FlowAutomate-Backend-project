@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+python-dotenv==1.0.1
+opensearch-py==2.7.1
+redis==5.0.8
+PyJWT==2.9.0
+passlib[bcrypt]==1.7.4
+sentence-transformers==3.0.1
+Pillow==10.4.0
+numpy==1.26.4
